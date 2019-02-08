@@ -59,4 +59,5 @@ This list is _very_ opinionated because it's based off my brain's thought proces
 
 ### R Sessions
 
+* Quit R : `Alt + Q`
 * Restart R : `Alt + R`
