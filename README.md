@@ -29,7 +29,6 @@ This list is _very_ opinionated because it's based off my brain's thought proces
 
 ### Package development
 
-* Load package from console : `Ctrl + Shift + L`
 * Document package from console : `Ctrl + Shift + D`
 * Test package from console : `Ctrl + Shift + T`
 * Test file from console : `Ctrl + Shift + Alt + T`
