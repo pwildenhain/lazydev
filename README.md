@@ -24,40 +24,40 @@ This list is _very_ opinionated because it's based off my brain's thought proces
 
 ## Custom Shortcuts
 
-Show default keyboard shortcuts : `Ctrl + Shift + ?`
-Modify keyboard shortcuts: `Ctrl + Shift + Alt + S`
+* Show default keyboard shortcuts : `Ctrl + Shift + ?`
+* Modify keyboard shortcuts: `Ctrl + Shift + Alt + S`
 
 ### Package development
 
-Load package from console : `Ctrl + Shift + L`
-Document package from console : `Ctrl + Shift + D`
-Test package from console : `Ctrl + Shift + T`
-Test file from console : `Ctrl + Shift + Alt + T`
-Check package from console : `Ctrl + Shift + C`
-Generate `pkgdown` documentation : `Ctrl + Shift + P`
+* Load package from console : `Ctrl + Shift + L`
+* Document package from console : `Ctrl + Shift + D`
+* Test package from console : `Ctrl + Shift + T`
+* Test file from console : `Ctrl + Shift + Alt + T`
+* Check package from console : `Ctrl + Shift + C`
+* Generate `pkgdown` documentation : `Ctrl + Shift + P`
 
 ### Console
 
-Clear console: `Ctrl + Delete`
+* Clear console: `Ctrl + Delete`
 
 ### Files
 
-Find file : `Ctrl + K`
-Spell check file: `Alt + S`
+* Find file : `Ctrl + K`
+* Spell check file: `Alt + S`
 
 ### Tabs
 
-Close all tabs `Ctrl + Alt + W`
+* Close all tabs `Ctrl + Alt + W`
 
 ### Editor
 
-Insert pipe : `Ctrl + Shift + >`
-Insert in-place pipe :  `Ctrl + Shift + <`
+* Insert pipe : `Ctrl + Shift + >`
+* Insert in-place pipe :  `Ctrl + Shift + <`
 
 ### Projects
 
-Open Project : `Ctrl + Shift + Insert`
+* Open Project : `Ctrl + Shift + Insert`
 
 ### R Sessions
 
-Restart R : `Alt + R`
+* Restart R : `Alt + R`
