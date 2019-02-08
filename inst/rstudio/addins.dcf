@@ -1,0 +1,25 @@
+Name: Document package
+Description: Run devtools::document()
+Binding: pkg_document_addin
+Interactive: false
+
+Name: Test package in console
+Description: Run devtools::test() in the console
+Binding: pkg_test_addin
+Interactive: false
+
+Name: Check package in console
+Description: Run devtools::check() in the console
+Binding: pkg_check_addin
+Interactive: false
+
+Name: Spell check active file
+Description: Run spelling::spell_check_files() on active file
+Binding: spell_check_file_addin
+Interactive: false
+
+Name: Insert %<>%
+Description: Insert the magrittr in-place operator
+Binding: magrittr_inplace_addin
+Interactive: false
+
