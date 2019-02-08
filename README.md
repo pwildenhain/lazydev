@@ -29,10 +29,10 @@ This list is _very_ opinionated because it's based off my brain's thought proces
 
 ### Package development
 
-* Document package from console : `Ctrl + Shift + D`
-* Test package from console : `Ctrl + Shift + T`
-* Test file from console : `Ctrl + Shift + Alt + T`
-* Check package from console : `Ctrl + Shift + C`
+* Document package in console : `Ctrl + Shift + D`
+* Test package in console : `Ctrl + Shift + T`
+* Test file in console : `Ctrl + Shift + Alt + T`
+* Check package in console : `Ctrl + Shift + C`
 * Generate `pkgdown` documentation : `Ctrl + Shift + P`
 
 ### Console
